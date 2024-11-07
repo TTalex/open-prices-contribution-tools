@@ -1,0 +1,19 @@
+/**
+ * src/styles/settings.scss
+ *
+ * Configures SASS variables and Vuetify overwrites
+ */
+
+// https://vuetifyjs.com/features/sass-variables/`
+// @use 'vuetify/settings' with (
+//   $color-pack: false
+// );
+
+.cropped-image {
+    height: 100%;
+    margin-top: -30px;
+}
+#canvas {
+    width: 100%;
+    height: auto;
+}
