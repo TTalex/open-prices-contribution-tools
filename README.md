@@ -1,5 +1,7 @@
 # A contribution assistant for Open Prices
 
+![](frontend/public/assistant_preview.png)
+
 Interacts with Gemini for automatic detection, and Open Prices APIs for login and price / proof creation.
 
 Only supports pictures of fruit and vegetable labels.
